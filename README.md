@@ -3,4 +3,4 @@
 halo perkenalan nama saya Ahmad Muhajir
 Seorang Developer
 
-masih belajar
+masih belajar, percobaan pertama
